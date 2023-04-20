@@ -1,0 +1,114 @@
+nav {
+    font-size: 20px;
+}
+
+.bg-gris {
+    background-color: rgb(61, 60, 71);
+}
+
+.contenido {
+    background: linear-gradient(rgba(5,7,12,0.55), rgba(5,7,12,0.55)),
+    url(Imegenes/ba1.jpg) no-repeat top center fixed;
+    background-size: cover;
+    padding-top: 10rem;
+    padding-bottom: 20rem;
+    padding-right: 5rem; 
+}
+
+.col-sm-6{
+    color: aliceblue;
+}
+
+
+h1 {
+    text-align: end;
+}
+
+p {
+  text-align: justify;
+}
+
+ .btn {
+    float: right;
+ }
+
+ .sub {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 15px;
+    margin-bottom: 0%;  
+ }
+
+ .tit {
+    text-align: center;
+ }
+ 
+ .card  {
+  display: inline-block; 
+}
+
+
+.titimg {
+    text-align: left;
+    color: aliceblue;
+}
+
+.pimg {
+    text-align: left;
+    color: aliceblue;
+}
+
+#boton {
+    float: left;
+    color: aliceblue;
+}
+
+
+.bg-azul {
+    background-color: rgb(27, 27, 99);
+}
+
+.sub2 {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 15px;
+    margin-bottom: 0%;  
+}
+
+.tit2 {
+    text-align: center;
+
+}
+
+.sub3 {
+    text-align: center;
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    font-size: 15px;
+    margin-bottom: 0%;  
+}
+
+span {
+  text-decoration-line: underline;
+  text-decoration-color: black;
+  text-decoration-style: dotted;
+}
+
+footer {
+    padding-top: 5rem;
+}
+
+.sub4 {
+    padding-top: 0.5rem;
+}
+
+.botoness {
+    float: left;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+}
+
+.btn-success {
+    background-color: rgb(66, 221, 66);
+}
